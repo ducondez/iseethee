@@ -1,0 +1,28 @@
+{
+  "name": "iseethee",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ducondez/iseethee",
+  "authors": [
+    "Danniel Condez <ducondez@gmail.com>"
+  ],
+  "description": "ICD10 explorer",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "icd",
+    "icd10",
+    "explorer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
